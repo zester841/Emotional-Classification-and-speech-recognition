@@ -1,0 +1,8 @@
+.venv*
+data
+wav2vec2-emotion
+temp_dataset
+*.csv
+confusion_matrix.png
+AudioWAV
+saved_model
